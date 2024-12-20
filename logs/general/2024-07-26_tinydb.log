@@ -1,0 +1,253 @@
+[2024-07-26 09:06:38] --- [GENERAL] Application started
+[2024-07-26 09:06:48] --- [GENERAL] registering user with id: naman@gmail.com
+[2024-07-26 09:06:48] --- [GENERAL] Loading users from file: databases/USERS/user.txt
+[2024-07-26 09:07:00] --- [GENERAL] Saving user: naman@gmail.com###8aa1ef9afbb2e0799af4c96103a078e1###What is your pet's name?;What city were you born in?;What is your favorite movie?###naman;naman;naman
+[2024-07-26 09:07:00] --- [GENERAL] User registered successfully with user id: naman@gmail.com
+[2024-07-26 09:07:01] --- [GENERAL] User login
+[2024-07-26 09:07:08] --- [GENERAL] Loading users from file: databases/USERS/user.txt
+[2024-07-26 09:07:08] --- [GENERAL] Verifying security question for user id: naman@gmail.com
+[2024-07-26 09:07:10] --- [GENERAL] User login successful with user id: naman@gmail.com
+[2024-07-26 09:07:14] --- [GENERAL] User selected write queries
+[2024-07-26 09:07:39] --- [GENERAL] Created database: TESTDB
+[2024-07-26 09:08:07] --- [GENERAL] Switched to database: TESTDB
+[2024-07-26 09:08:52] --- [GENERAL] Invalid query: Missing ; at EOL
+[2024-07-26 09:08:58] --- [GENERAL] Created table: EMPLOYEES in database: TESTDB
+[2024-07-26 09:10:01] --- [GENERAL] Invalid query: Missing ; at EOL
+[2024-07-26 09:11:06] --- [GENERAL] Table EMPLOYEES updated successfully.
+[2024-07-26 09:11:21] --- [GENERAL] Invalid query: Missing ; at EOL
+[2024-07-26 09:13:06] --- [GENERAL] Dropped table: EMPLOYEES
+[2024-07-26 09:13:23] --- [GENERAL] Invalid query: Missing ; at EOL
+[2024-07-26 09:13:27] --- [GENERAL] Created table: EMPLOYEES in database: TESTDB
+[2024-07-26 09:28:31] --- [GENERAL] User selected ERD
+[2024-07-26 09:29:34] --- [GENERAL] Generating ERD for database: testdb
+[2024-07-26 09:29:34] --- [GENERAL] Error generating ERD: Database does not exist
+[2024-07-26 09:29:53] --- [GENERAL] User selected ERD
+[2024-07-26 09:29:57] --- [GENERAL] Generating ERD for database: users
+[2024-07-26 09:29:57] --- [GENERAL] Error generating ERD: Database does not exist
+[2024-07-26 09:30:06] --- [GENERAL] User selected ERD
+[2024-07-26 09:30:11] --- [GENERAL] Generating ERD for database: test_db
+[2024-07-26 09:30:11] --- [GENERAL] Error generating ERD: Database does not exist
+[2024-07-26 09:43:20] --- [GENERAL] Application started
+[2024-07-26 09:43:23] --- [GENERAL] User login
+[2024-07-26 09:43:28] --- [GENERAL] Loading users from file: databases/USERS/user.txt
+[2024-07-26 09:43:28] --- [GENERAL] Verifying security question for user id: naman@gmail.com
+[2024-07-26 09:43:29] --- [GENERAL] User login successful with user id: naman@gmail.com
+[2024-07-26 09:43:33] --- [GENERAL] User selected ERD
+[2024-07-26 09:43:36] --- [GENERAL] Generating ERD for database: testdb
+[2024-07-26 09:43:36] --- [GENERAL] Error generating ERD: Database does not exist
+[2024-07-26 09:43:58] --- [GENERAL] User selected ERD
+[2024-07-26 09:44:01] --- [GENERAL] Generating ERD for database: TESTDB
+[2024-07-26 09:44:01] --- [GENERAL] ERD generated successfully
+[2024-07-26 09:44:21] --- [GENERAL] Application started
+[2024-07-26 09:45:10] --- [GENERAL] Application started
+[2024-07-26 09:45:11] --- [GENERAL] User login
+[2024-07-26 09:45:16] --- [GENERAL] Loading users from file: databases/USERS/user.txt
+[2024-07-26 09:45:16] --- [GENERAL] Verifying security question for user id: naman@gmail.com
+[2024-07-26 09:45:17] --- [GENERAL] User login successful with user id: naman@gmail.com
+[2024-07-26 09:45:19] --- [GENERAL] User selected ERD
+[2024-07-26 09:45:32] --- [GENERAL] Generating ERD for database: MY_NEW_DATABASE
+[2024-07-26 09:45:32] --- [GENERAL] ERD generated successfully
+[2024-07-26 09:46:52] --- [GENERAL] User selected write queries
+[2024-07-26 09:47:00] --- [GENERAL] Switched to database: MY_NEW_DATABASE
+[2024-07-26 10:13:20] --- [GENERAL] Application started
+[2024-07-26 10:13:23] --- [GENERAL] User login
+[2024-07-26 10:13:27] --- [GENERAL] Loading users from file: databases/USERS/user.txt
+[2024-07-26 10:13:27] --- [GENERAL] Verifying security question for user id: naman@gmail.com
+[2024-07-26 10:13:28] --- [GENERAL] User login successful with user id: naman@gmail.com
+[2024-07-26 10:13:30] --- [GENERAL] User selected write queries
+[2024-07-26 10:13:45] --- [GENERAL] Switched to database: TESTDB
+[2024-07-26 10:27:03] --- [GENERAL] Application started
+[2024-07-26 10:27:05] --- [GENERAL] User login
+[2024-07-26 10:27:10] --- [GENERAL] Loading users from file: databases/USERS/user.txt
+[2024-07-26 10:27:10] --- [GENERAL] Verifying security question for user id: naman@gmail.com
+[2024-07-26 10:27:11] --- [GENERAL] User login successful with user id: naman@gmail.com
+[2024-07-26 10:27:13] --- [GENERAL] User selected write queries
+[2024-07-26 10:27:15] --- [GENERAL] No database selected.
+[2024-07-26 10:27:15] --- [GENERAL] Table EMPLOYEES does not exist.
+[2024-07-26 10:27:33] --- [GENERAL] Invalid query: Missing ; at EOL
+[2024-07-26 10:27:42] --- [GENERAL] Switched to database: TESTDB
+[2024-07-26 10:30:06] --- [GENERAL] Application started
+[2024-07-26 10:30:09] --- [GENERAL] User login
+[2024-07-26 10:30:12] --- [GENERAL] Loading users from file: databases/USERS/user.txt
+[2024-07-26 10:30:12] --- [GENERAL] User login failed with user id: naman
+[2024-07-26 10:30:14] --- [GENERAL] User login
+[2024-07-26 10:30:21] --- [GENERAL] Loading users from file: databases/USERS/user.txt
+[2024-07-26 10:30:21] --- [GENERAL] Verifying security question for user id: naman@gmail.com
+[2024-07-26 10:30:22] --- [GENERAL] User login successful with user id: naman@gmail.com
+[2024-07-26 10:30:23] --- [GENERAL] User selected write queries
+[2024-07-26 10:31:23] --- [GENERAL] No database selected.
+[2024-07-26 10:31:23] --- [GENERAL] Table EMPLOYEES does not exist.
+[2024-07-26 10:31:34] --- [GENERAL] Switched to database: TESTDB
+[2024-07-26 10:35:41] --- [GENERAL] Application started
+[2024-07-26 10:35:43] --- [GENERAL] User login
+[2024-07-26 10:35:48] --- [GENERAL] Loading users from file: databases/USERS/user.txt
+[2024-07-26 10:35:48] --- [GENERAL] User login failed with user id: login
+[2024-07-26 10:35:50] --- [GENERAL] User login
+[2024-07-26 10:35:56] --- [GENERAL] Loading users from file: databases/USERS/user.txt
+[2024-07-26 10:35:56] --- [GENERAL] Verifying security question for user id: naman@gmail.com
+[2024-07-26 10:35:57] --- [GENERAL] User login successful with user id: naman@gmail.com
+[2024-07-26 10:35:59] --- [GENERAL] User selected write queries
+[2024-07-26 10:36:07] --- [GENERAL] No database selected.
+[2024-07-26 10:36:07] --- [GENERAL] Table EMPLOYEES does not exist.
+[2024-07-26 10:36:17] --- [GENERAL] Switched to database: TESTDB
+[2024-07-26 10:38:08] --- [GENERAL] Application started
+[2024-07-26 10:38:11] --- [GENERAL] User login
+[2024-07-26 10:38:16] --- [GENERAL] Loading users from file: databases/USERS/user.txt
+[2024-07-26 10:38:16] --- [GENERAL] Verifying security question for user id: naman@gmail.com
+[2024-07-26 10:38:18] --- [GENERAL] User login successful with user id: naman@gmail.com
+[2024-07-26 10:38:20] --- [GENERAL] User selected write queries
+[2024-07-26 10:38:26] --- [GENERAL] Switched to database: TESTDB
+[2024-07-26 10:39:06] --- [GENERAL] Application started
+[2024-07-26 10:39:10] --- [GENERAL] User login
+[2024-07-26 10:39:16] --- [GENERAL] Loading users from file: databases/USERS/user.txt
+[2024-07-26 10:39:16] --- [GENERAL] Verifying security question for user id: naman@gmail.com
+[2024-07-26 10:39:18] --- [GENERAL] User login successful with user id: naman@gmail.com
+[2024-07-26 10:39:20] --- [GENERAL] User selected write queries
+[2024-07-26 10:39:27] --- [GENERAL] Switched to database: TESTDB
+[2024-07-26 10:41:01] --- [GENERAL] Application started
+[2024-07-26 10:41:03] --- [GENERAL] User login
+[2024-07-26 10:41:08] --- [GENERAL] Loading users from file: databases/USERS/user.txt
+[2024-07-26 10:41:08] --- [GENERAL] Verifying security question for user id: naman@gmail.com
+[2024-07-26 10:41:10] --- [GENERAL] User login successful with user id: naman@gmail.com
+[2024-07-26 10:41:11] --- [GENERAL] User selected write queries
+[2024-07-26 10:41:20] --- [GENERAL] Switched to database: TESTDB
+[2024-07-26 10:43:43] --- [GENERAL] Application started
+[2024-07-26 10:43:45] --- [GENERAL] User login
+[2024-07-26 10:43:50] --- [GENERAL] Loading users from file: databases/USERS/user.txt
+[2024-07-26 10:43:50] --- [GENERAL] Verifying security question for user id: naman@gmail.com
+[2024-07-26 10:43:51] --- [GENERAL] User login successful with user id: naman@gmail.com
+[2024-07-26 10:43:53] --- [GENERAL] User selected write queries
+[2024-07-26 10:44:15] --- [GENERAL] Switched to database: TESTDB
+[2024-07-26 10:45:25] --- [GENERAL] Application started
+[2024-07-26 10:45:27] --- [GENERAL] User login
+[2024-07-26 10:45:36] --- [GENERAL] Loading users from file: databases/USERS/user.txt
+[2024-07-26 10:45:36] --- [GENERAL] Verifying security question for user id: naman@gmail.com
+[2024-07-26 10:45:37] --- [GENERAL] User login successful with user id: naman@gmail.com
+[2024-07-26 10:45:38] --- [GENERAL] User selected write queries
+[2024-07-26 10:45:48] --- [GENERAL] Switched to database: TESTDB
+[2024-07-26 10:47:21] --- [GENERAL] Application started
+[2024-07-26 10:47:23] --- [GENERAL] User login
+[2024-07-26 10:47:29] --- [GENERAL] Loading users from file: databases/USERS/user.txt
+[2024-07-26 10:47:29] --- [GENERAL] Verifying security question for user id: naman@gmail.com
+[2024-07-26 10:47:30] --- [GENERAL] User login successful with user id: naman@gmail.com
+[2024-07-26 10:47:32] --- [GENERAL] User selected write queries
+[2024-07-26 10:47:38] --- [GENERAL] Switched to database: TESTDB
+[2024-07-26 10:48:43] --- [GENERAL] Application started
+[2024-07-26 10:48:45] --- [GENERAL] User login
+[2024-07-26 10:48:53] --- [GENERAL] Loading users from file: databases/USERS/user.txt
+[2024-07-26 10:48:53] --- [GENERAL] Verifying security question for user id: naman@gmail.com
+[2024-07-26 10:48:54] --- [GENERAL] User login successful with user id: naman@gmail.com
+[2024-07-26 10:48:56] --- [GENERAL] User selected write queries
+[2024-07-26 10:49:02] --- [GENERAL] Switched to database: TESTDB
+[2024-07-26 10:52:20] --- [GENERAL] Application started
+[2024-07-26 10:52:21] --- [GENERAL] User login
+[2024-07-26 10:52:29] --- [GENERAL] Loading users from file: databases/USERS/user.txt
+[2024-07-26 10:52:29] --- [GENERAL] Verifying security question for user id: naman@gmail.com
+[2024-07-26 10:52:30] --- [GENERAL] User login successful with user id: naman@gmail.com
+[2024-07-26 10:52:31] --- [GENERAL] User selected write queries
+[2024-07-26 10:52:38] --- [GENERAL] Switched to database: TESTDB
+[2024-07-26 10:54:24] --- [GENERAL] Application started
+[2024-07-26 10:54:28] --- [GENERAL] registering user with id: 
+[2024-07-26 10:54:28] --- [GENERAL] Invalid email format tried for user id: 
+[2024-07-26 10:54:38] --- [GENERAL] registering user with id: naman@gmail.com
+[2024-07-26 10:54:38] --- [GENERAL] Loading users from file: databases/USERS/user.txt
+[2024-07-26 10:54:38] --- [GENERAL] User ID already exists for user id: naman@gmail.com
+[2024-07-26 10:54:41] --- [GENERAL] User login
+[2024-07-26 10:54:46] --- [GENERAL] Loading users from file: databases/USERS/user.txt
+[2024-07-26 10:54:46] --- [GENERAL] Verifying security question for user id: naman@gmail.com
+[2024-07-26 10:54:47] --- [GENERAL] User login successful with user id: naman@gmail.com
+[2024-07-26 10:54:50] --- [GENERAL] User selected write queries
+[2024-07-26 10:55:02] --- [GENERAL] Switched to database: TESTDB
+[2024-07-26 10:57:00] --- [GENERAL] Application started
+[2024-07-26 10:57:02] --- [GENERAL] User login
+[2024-07-26 10:57:08] --- [GENERAL] Loading users from file: databases/USERS/user.txt
+[2024-07-26 10:57:08] --- [GENERAL] Verifying security question for user id: naman@gmail.com
+[2024-07-26 10:57:08] --- [GENERAL] User login successful with user id: naman@gmail.com
+[2024-07-26 10:57:10] --- [GENERAL] User selected write queries
+[2024-07-26 10:57:23] --- [GENERAL] Switched to database: TESTDB
+[2024-07-26 10:58:47] --- [GENERAL] Application started
+[2024-07-26 10:58:55] --- [GENERAL] registering user with id: naman@gmail.com
+[2024-07-26 10:58:55] --- [GENERAL] Loading users from file: databases/USERS/user.txt
+[2024-07-26 10:58:55] --- [GENERAL] User ID already exists for user id: naman@gmail.com
+[2024-07-26 10:59:02] --- [GENERAL] Application started
+[2024-07-26 10:59:04] --- [GENERAL] User login
+[2024-07-26 10:59:08] --- [GENERAL] Loading users from file: databases/USERS/user.txt
+[2024-07-26 10:59:08] --- [GENERAL] Verifying security question for user id: naman@gmail.com
+[2024-07-26 10:59:09] --- [GENERAL] User login successful with user id: naman@gmail.com
+[2024-07-26 10:59:11] --- [GENERAL] User selected write queries
+[2024-07-26 10:59:16] --- [GENERAL] Switched to database: TESTDB
+[2024-07-26 11:07:51] --- [GENERAL] Application started
+[2024-07-26 11:07:53] --- [GENERAL] User login
+[2024-07-26 11:07:58] --- [GENERAL] Loading users from file: databases/USERS/user.txt
+[2024-07-26 11:07:58] --- [GENERAL] Verifying security question for user id: naman@gmail.com
+[2024-07-26 11:07:59] --- [GENERAL] User login successful with user id: naman@gmail.com
+[2024-07-26 11:08:01] --- [GENERAL] User selected write queries
+[2024-07-26 11:08:07] --- [GENERAL] Switched to database: TESTDB
+[2024-07-26 11:11:48] --- [GENERAL] Application started
+[2024-07-26 11:11:49] --- [GENERAL] User login
+[2024-07-26 11:11:54] --- [GENERAL] Loading users from file: databases/USERS/user.txt
+[2024-07-26 11:11:54] --- [GENERAL] Verifying security question for user id: naman@gmail.com
+[2024-07-26 11:11:56] --- [GENERAL] User login successful with user id: naman@gmail.com
+[2024-07-26 11:11:58] --- [GENERAL] User selected write queries
+[2024-07-26 11:12:10] --- [GENERAL] Switched to database: TESTDB
+[2024-07-26 11:12:39] --- [GENERAL] No records found.
+[2024-07-26 11:12:39] --- [GENERAL] User login failed with exception: Cannot invoke "java.util.List.iterator()" because "rows" is null
+[2024-07-26 11:12:48] --- [GENERAL] User login
+[2024-07-26 11:12:54] --- [GENERAL] Loading users from file: databases/USERS/user.txt
+[2024-07-26 11:12:54] --- [GENERAL] Verifying security question for user id: naman@gmail.com
+[2024-07-26 11:12:56] --- [GENERAL] User login successful with user id: naman@gmail.com
+[2024-07-26 11:13:09] --- [GENERAL] User selected write queries
+[2024-07-26 11:13:11] --- [GENERAL] Switched to database: TESTDB
+[2024-07-26 11:13:17] --- [GENERAL] Invalid SELECT FROM query.
+[2024-07-26 11:13:53] --- [GENERAL] Application started
+[2024-07-26 11:13:55] --- [GENERAL] User login
+[2024-07-26 11:14:29] --- [GENERAL] Loading users from file: databases/USERS/user.txt
+[2024-07-26 11:14:29] --- [GENERAL] Verifying security question for user id: naman@gmail.com
+[2024-07-26 11:14:30] --- [GENERAL] User login successful with user id: naman@gmail.com
+[2024-07-26 11:14:32] --- [GENERAL] User selected write queries
+[2024-07-26 11:14:42] --- [GENERAL] Switched to database: TESTDB
+[2024-07-26 11:14:59] --- [GENERAL] Invalid SELECT FROM query.
+[2024-07-26 11:17:39] --- [GENERAL] Application started
+[2024-07-26 11:17:41] --- [GENERAL] User login
+[2024-07-26 11:17:50] --- [GENERAL] Loading users from file: databases/USERS/user.txt
+[2024-07-26 11:17:50] --- [GENERAL] Verifying security question for user id: naman@gmail.com
+[2024-07-26 11:17:51] --- [GENERAL] User login successful with user id: naman@gmail.com
+[2024-07-26 11:17:53] --- [GENERAL] User selected write queries
+[2024-07-26 11:18:01] --- [GENERAL] Switched to database: TESTDB
+[2024-07-26 11:19:46] --- [GENERAL] No records found.
+[2024-07-26 11:19:55] --- [GENERAL] No records found.
+[2024-07-26 11:24:12] --- [GENERAL] Application started
+[2024-07-26 11:24:14] --- [GENERAL] User login
+[2024-07-26 11:24:19] --- [GENERAL] Loading users from file: databases/USERS/user.txt
+[2024-07-26 11:24:19] --- [GENERAL] Verifying security question for user id: naman@gmail.com
+[2024-07-26 11:24:20] --- [GENERAL] User login successful with user id: naman@gmail.com
+[2024-07-26 11:24:21] --- [GENERAL] User selected write queries
+[2024-07-26 11:24:31] --- [GENERAL] Invalid query: Missing ; at EOL
+[2024-07-26 11:24:37] --- [GENERAL] Switched to database: TESTDB
+[2024-07-26 09:33:25] --- [GENERAL] Application started
+[2024-07-26 09:34:40] --- [GENERAL] registering user with id: kavan123@gmail.com
+[2024-07-26 09:34:40] --- [GENERAL] Loading users from file: databases/USERS/user.txt
+[2024-07-26 09:35:06] --- [GENERAL] Saving user: kavan123@gmail.com###49c5093c0d73512e0eb67cd62589a36c###What is your pet's name?;What city were you born in?;What is your favorite movie?###pet;vadodara;kill
+[2024-07-26 09:35:06] --- [GENERAL] User registered successfully with user id: kavan123@gmail.com
+[2024-07-26 09:36:03] --- [GENERAL] User login
+[2024-07-26 09:36:14] --- [GENERAL] Loading users from file: databases/USERS/user.txt
+[2024-07-26 09:36:14] --- [GENERAL] Verifying security question for user id: kavan123@gmail.com
+[2024-07-26 09:36:26] --- [GENERAL] User login successful with user id: kavan123@gmail.com
+[2024-07-26 09:36:44] --- [GENERAL] User selected export data and structure
+[2024-07-26 09:37:04] --- [GENERAL] Database TEST_DB exported to SQL successfully.
+[2024-07-26 09:37:14] --- [GENERAL] User selected ERD
+[2024-07-26 09:37:20] --- [GENERAL] Generating ERD for database: TEST_DB
+[2024-07-26 09:37:20] --- [GENERAL] ERD generated successfully
+[2024-07-26 09:39:38] --- [GENERAL] User selected write queries
+[2024-07-26 09:40:43] --- [GENERAL] Application started
+[2024-07-26 09:40:46] --- [GENERAL] User login
+[2024-07-26 09:40:52] --- [GENERAL] Loading users from file: databases/USERS/user.txt
+[2024-07-26 09:40:52] --- [GENERAL] User login failed with user id: kavan@gmail.com
+[2024-07-26 09:40:58] --- [GENERAL] User login
+[2024-07-26 09:41:13] --- [GENERAL] Loading users from file: databases/USERS/user.txt
+[2024-07-26 09:41:13] --- [GENERAL] Verifying security question for user id: kavan123@gmail.com
+[2024-07-26 09:41:18] --- [GENERAL] User login successful with user id: kavan123@gmail.com
+[2024-07-26 09:41:37] --- [GENERAL] User selected write queries
+[2024-07-26 09:41:43] --- [GENERAL] Invalid query.
+[2024-07-26 09:42:02] --- [GENERAL] Switched to database: TEST_DB
+[2024-07-26 09:43:05] --- [GENERAL] Invalid query.
