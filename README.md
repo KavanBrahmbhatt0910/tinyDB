@@ -108,5 +108,7 @@ This project is protected under the Dalhousie University Academic Integrity poli
 
 ## Contact
 
-For queries, reach out to:
-- **Email:** [kavanbrahmbhatt0910@gmail.com]
+For any queries or support, feel free to reach out to:
+
+**Kavankumar Brahmbhatt**  
+[Email](mailto:kavanbrahmbhatt0910@gmail.com) | [GitHub](https://github.com/KavanBrahmbhatt0910)
